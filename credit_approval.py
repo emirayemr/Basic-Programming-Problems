@@ -16,7 +16,7 @@
 #SOLUTION OF THE PROBLEM
 print ("Welcome to credit application decider!")
 
-# declare and initialize boolean variables
+# initialize the boolean variables
 employee = bool(True)
 credit_rating = bool(True)
 
