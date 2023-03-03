@@ -42,7 +42,6 @@ quiz_w = 0.1
 final_grade = float( midterm * midterm_w + essay * essay_w + discussion * discussion_w + quiz * quiz_w)
 
 # deciding the letter grade (*)
-
 letter_grade = str("null") #initializing variable
 if 100 >= final_grade > 90:
   letter_grade = "A"
