@@ -2,7 +2,7 @@
 
 # Aim is deciding if an applicant can get credit from a chosen bank. 
 
-# Critaria of the bank for giving credit:
+# Criteria of the bank for giving credit:
   # If you are under 30 (inclusive) and you are an employee, you can get credit
   # If you are between 31 and 40 years old (31 and 40 inclusive), you can get credit
   # If you are over 40 (exclusive) and your credit rating is excellent, you can get credit
@@ -11,7 +11,7 @@
   # age, as an integer
   # employee ("Yes" or "No")
   # credit rating ("Excellent" or "Fair")
-# and it shold give the decision for the credit application ("Yes" or "No")
+# and it should give the decision for the credit application ("Yes" or "No")
 
 #SOLUTION OF THE PROBLEM
 print ("Welcome to credit application decider!")
