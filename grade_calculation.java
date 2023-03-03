@@ -53,9 +53,9 @@ public class grade_calculation {
 		
 		// calculating the final grade
 		double finalGrade = (double) midterm * midtermW +
-									 essay * essayW +
-									 discussion * discussionW +
-									 quiz * quizW;
+					     essay * essayW +
+				             discussion * discussionW +
+					     quiz * quizW;
 		
 		// deciding the letter grade (*)
 		String letterGrade;
