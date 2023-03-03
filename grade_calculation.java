@@ -24,8 +24,6 @@
  */
 
 // SOLUTION OF THE PROBLEM 
-package grade_calculation;
-
 import java.util.Scanner;
 
 public class grade_calculation {
