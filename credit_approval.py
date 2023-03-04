@@ -23,7 +23,7 @@ credit_rating = bool(True)
 # get inputs and update decision (only for negative results)
   # there are only two negative results as below:
 age = int(input("Please enter your age: "))
-if age <=30:
+if age <= 30:
   emp_input = str(input("Are you currently an employee? (Yes/No)"))
   if emp_input == "No":
     employee = False
