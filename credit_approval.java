@@ -15,9 +15,7 @@
 	and it should give the decision for the credit application ("Yes" or "No")
  */
 
-//SOLUTION OF THE PROBLEM
-package credit_approval;
-
+// SOLUTION OF THE PROBLEM
 import java.util.Scanner;
 
 public class credit_approval {
