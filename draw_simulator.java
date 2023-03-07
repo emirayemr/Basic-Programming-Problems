@@ -1,4 +1,4 @@
-// OUTLINE OF THE PROJECT
+// OUTLINE OF THE PROBLEM
 /*
 	For the quarter finals in Champions League 8 teams are seeded.
 	Assume the teams to be matched are following:
@@ -8,8 +8,7 @@
 		Note that Team1 v Team2 is equivalent to Team2 v Team1
  */
 
-package draw_simulator;
-
+// SOLUTION OF THE PROBLEM
 import java.util.Scanner;
 
 public class draw_simulator {
