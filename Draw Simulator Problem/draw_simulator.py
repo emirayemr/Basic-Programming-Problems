@@ -1,4 +1,4 @@
-# OUTLINE OF THE PROJECT
+# OUTLINE OF THE PROBLEM
 
 # For the quarter finals in Champions League 8 teams are seeded.
 # Assume the teams to be matched are following:
